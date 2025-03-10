@@ -87,7 +87,7 @@ The dataset is hard-coded within the script. For larger or external datasets, mo
 Modify the threshold in classify_with_threshold to set a desired confidence level for automatic classification.
 
 ## License
-- This project is licensed under the MIT License. See the LICENSE file for details.
+- This project is licensed under the Creative Commons Attribution 4.0 (CC BY 4.0). See the LICENSE file for details.
 
 Acknowledgements
 - HuggingFace Transformers
